@@ -1,0 +1,51 @@
+.payment-info {
+    background: #e0e0e0;
+    padding: 20px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+
+
+
+.p-about {
+    font-size: 12px
+}
+
+
+
+
+
+label.radio {
+    cursor: pointer
+}
+
+label.radio span {
+    padding: 10px;
+}
+
+label.radio input:checked+span {
+    border-color: #222222;
+    color: #404040;
+}
+
+.credit-inputs {
+    background: rgb(184, 184, 184);
+}
+
+.credit-inputs::placeholder {
+    color: #5a5656;
+    font-size: 13px
+}
+
+.credit-card-label {
+    font-size: 15px;
+    font-weight: 300;
+    padding: 5px;
+}
+
+
+
+
+
